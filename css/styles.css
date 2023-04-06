@@ -613,3 +613,6 @@ img {
   background-color: var(--primary-color);
   fill: currentColor;
 }
+.icon-close {
+  display: block;
+}
