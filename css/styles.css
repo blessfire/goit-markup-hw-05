@@ -550,7 +550,7 @@ img {
 }
 .footer-soc-link:hover,
 .footer-soc-link:focus {
-  background-color: var(--accent-color);
+  background-color: var(--succes-color);
 }
 .footer-soc-list {
   display: flex;
